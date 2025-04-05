@@ -1,1 +1,1 @@
-Pyhton and Pandas lab
+Python and Pandas lab
